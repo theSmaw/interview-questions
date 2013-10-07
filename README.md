@@ -20,6 +20,16 @@ how would you fix bugs without a debugger?
 
 ### YouView technical
 
+How do you add something to the start of an array?
+
+Have you got any robotleggs experience? What is good about it? What are the performance implications?
+
+Have you used AS3 signals? Do you have any issues with it?
+
+What is the most peformant way to run bitmap animations on the YouView box?
+
+What if any changes would you make to the flash API?
+
 ### General technical
 
 describe the architecture of your latest project
@@ -44,6 +54,10 @@ how do you manage memory within a memory-sensitive application?
 
 do you prefer git or svn?
   - describe your favourite workflow
+
+What is a Singleton? Where should you use one? What are the potential issues?
+
+If you started a new project what would you hate to see?
 
 ### General workflow
 
