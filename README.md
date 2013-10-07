@@ -16,6 +16,8 @@ if JavaScript experience
   - what would you do without closures?
   - how would you inherit without prototypes?
 
+how would you fix bugs without a debugger?
+
 ### YouView technical
 
 ### General technical
