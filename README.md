@@ -1,11 +1,11 @@
 interview-questions
 ===================
 
-# Kick off
+### Kick off
 
 what do you know about the role?
 
-## Roku technical
+### Roku technical
 
 what do you know about Roku?
 
@@ -16,8 +16,7 @@ if JavaScript experience
   - what would you do without closures?
   - how would you inherit without prototypes?
 
-
-## General technical
+### General technical
 
 describe the architecture of your latest project
 
@@ -40,7 +39,6 @@ how do you manage memory within a memory-sensitive application?
 do you prefer git or svn?
   - describe your favourite workflow
 
-
-## General workflow
+### General workflow
 
 describe your favourite agile workflow
