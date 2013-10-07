@@ -23,6 +23,8 @@ if JavaScript experience
 describe the architecture of your latest project
 
 what is your favourite MV* architecture?
+  - what are the roles of each object?
+  - why use MV*?
 
 what is your favourite language?
   - what is missing from it?
