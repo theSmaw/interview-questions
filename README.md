@@ -5,18 +5,34 @@ interview-questions
 
 what do you know about the role?
 
+ask about experience in last job
+
+ask about experience in another job
+
 ### Roku technical
 
 what do you know about Roku?
 
 what do you know about BrightScript?
 
+  - what have you built with it?
+  - can you make it object oriented?
+  - how do you define objects?
+  - how to you extend objects?
+  - what are pitfalls of the language?
+  - what are good parts of the language?
+  - how do you debug?
+  - how do you test?
+  - what build process did you have?
+  - how do you manage dependencies between objects?
+  - how do you deal with globals?
+  - 
+
 if JavaScript experience
   - how would you create an object?
   - what would you do without closures?
   - how would you inherit without prototypes?
-
-how would you fix bugs without a debugger?
+  - how would you fix bugs without a debugger?
 
 ### YouView technical
 
@@ -31,6 +47,14 @@ What is the most peformant way to run bitmap animations on the YouView box?
 What if any changes would you make to the flash API?
 
 ### General technical
+
+client-side architectures
+
+  - what patterns are there for clientside development?
+  - can you describe a pattern for a SPA you have worked on?
+  - advantages of frameworks?
+  - disadvantages of frameworks?
+  - what is close-coupling? what are its disadvantages? how can you prevent it?
 
 describe the architecture of your latest project
 
@@ -62,3 +86,17 @@ If you started a new project what would you hate to see?
 ### General workflow
 
 describe your favourite agile workflow
+
+### General questions
+
+what is the most successful project you have worked on? why do you consider it to be a success?
+
+what is the least successful project you have worked on? why?
+
+how would your last manager describe you?
+
+largest team you have worked in
+
+if you started a new project, what would you hate to see
+
+how do you deal with conflict on a team?
