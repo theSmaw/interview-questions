@@ -3,6 +3,8 @@ interview-questions
 
 ### Kick off
 
+are you a crunt?
+
 what do you know about the role?
 
 ask about experience in last job
