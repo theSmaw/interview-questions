@@ -91,6 +91,8 @@ describe your favourite agile workflow
 
 ### General questions
 
+what are you favourite work related books?
+
 what is the most successful project you have worked on? why do you consider it to be a success?
 
 what is the least successful project you have worked on? why?
