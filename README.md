@@ -3,13 +3,45 @@ interview-questions
 
 ### Kick off
 
-are you a crunt?
-
 what do you know about the role?
 
 ask about experience in last job
 
 ask about experience in another job
+
+### JavaScript technical
+
+what is the most complex JavaScript project you have been involved in?
+
+which piece of code are you most proud of?
+
+how do you organize your code?
+
+what frameworks have you worked with? what do you like and what do you not?
+
+what is object-oriented programming?
+
+what is functional programming?
+
+when is inheritance a good approach?
+
+What does “favor object composition over class inheritance” mean?
+
+what is asynchronous programming? what techniques are there to manage this in JavaScript?
+
+what is this? when can this change? how can we guarantee this?
+
+what unit testing framework do you use and why? how do you mock or stub dependencies? should you?
+
+what mistakes did you make as a junior JavaScript developer that you no longer do?
+
+what missing feature would you implement in the language?
+
+what is type coercion?
+
+
+
+
 
 ### Roku technical
 
